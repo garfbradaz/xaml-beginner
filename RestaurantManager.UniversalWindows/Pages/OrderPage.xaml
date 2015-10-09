@@ -6,7 +6,16 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
-
+    <Page.TopAppBar>
+        <AppBar FlowDirection="LeftToRight">
+            <AppBarButton x:Name="HomeButton" 
+                          Tag="home" 
+                          Icon="Home"
+                          Label="Home"
+                          FlowDirection="LeftToRight"
+                          Click="HomeButton_Click"/>
+        </AppBar>
+    </Page.TopAppBar>
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <Grid.RowDefinitions>
             <RowDefinition Height="0.2*" />
@@ -20,6 +29,19 @@
             <ColumnDefinition Width="0.25*" />
             <ColumnDefinition Width="0.25*" />
         </Grid.ColumnDefinitions>
+        <ListView Grid.Column="0" Grid.Row="2" Background="Aqua">
+            <TextBlock Text="Under Construction" 
+                       FontWeight="Black"
+                       Foreground="Red"
+                       HorizontalAlignment="Center" TextAlignment="Center" VerticalAlignment="Center"/>
+        </ListView>
+        <ListView Grid.Column="2" Grid.Row="2" Background="Aqua">
+            <TextBlock Text="Under Construction" 
+                       FontWeight="Black"
+                       Foreground="Red"
+                       HorizontalAlignment="Center" TextAlignment="Center" VerticalAlignment="Center"
+                       FontSize="24"/>
+        </ListView>
         <TextBlock x:Name="titleRequests" Grid.Column="1" Grid.Row="1">
             <Run Text="Special Request:"></Run>
         </TextBlock>
@@ -27,15 +49,15 @@
             <Run Text="Order Items:"></Run>
         </TextBlock>
         <!--The following we will change to a button at a later date-->
-        <TextBlock x:Name="buttonAddToOrder" Text="*Add to Order*"
+        <Button x:Name="buttonAddToOrder" Content="Add to Order"
                    Grid.Row="4"
                    HorizontalAlignment="Center"
-                   VerticalAlignment="Center"/>
-        <TextBlock x:Name="buttonSubmitOrder" Text="*Submit Order*"
+                   Background="Gray"/>
+        <Button x:Name="buttonSubmitOrder" Content="Submit Order"
                    Grid.Row="4"
                    Grid.Column="1"
                    Grid.ColumnSpan="2"
                    HorizontalAlignment="Center"
-                   VerticalAlignment="Center"/>
+                   Background="Gray"/>
     </Grid>
 </Page>

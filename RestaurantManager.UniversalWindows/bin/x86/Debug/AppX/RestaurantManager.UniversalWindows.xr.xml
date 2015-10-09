@@ -5,7 +5,13 @@
       <RootProperty Name="RequestedTheme" />
       <RootProperty Name="Resources" />
     </RootType>
-    <RootType FullName="Windows.UI.Xaml.Controls.Button" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Button">
+      <RootProperty Name="Content" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootEvent Name="Click" />
+    </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Control">
       <RootProperty Name="FontSize" />
     </RootType>
@@ -14,6 +20,10 @@
       <RootProperty Name="Text" />
       <RootProperty Name="TextAlignment" />
       <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Inlines" />
+      <RootProperty Name="FontWeight" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="HorizontalAlignment" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Setter">
       <RootProperty Name="Property" />
@@ -21,6 +31,7 @@
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Page">
       <RootProperty Name="Content" />
+      <RootProperty Name="TopAppBar" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Grid">
       <RootProperty Name="Background" />
@@ -42,7 +53,28 @@
       <RootProperty Name="Width" />
     </RootType>
     <RootType FullName="RestaurantManager.UniversalWindows.MainPage" />
+    <RootType FullName="Windows.UI.Xaml.Controls.AppBar">
+      <RootProperty Name="FlowDirection" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.AppBarButton">
+      <RootProperty Name="Tag" />
+      <RootProperty Name="Icon" />
+      <RootProperty Name="Label" />
+      <RootProperty Name="FlowDirection" />
+      <RootEvent Name="Click" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.GridView">
+      <RootProperty Name="Background" />
+    </RootType>
     <RootType FullName="RestaurantManager.UniversalWindows.Pages.ExpeditePage" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ListView">
+      <RootProperty Name="Background" />
+      <RootProperty Name="Items" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Documents.Run">
+      <RootProperty Name="Text" />
+    </RootType>
     <RootType FullName="RestaurantManager.UniversalWindows.Pages.OrderPage" />
   </Roots.RootTypes>
 </Roots>

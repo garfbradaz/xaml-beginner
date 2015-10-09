@@ -22,7 +22,7 @@
     <AppXManifest Include="D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-24T19:35:04.157</Modified>
+      <Modified>2015-10-09T19:47:57.059</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -79,7 +79,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\entrypoint\RestaurantManager.UniversalWindows.exe">
       <PackagePath>entrypoint\RestaurantManager.UniversalWindows.exe</PackagePath>
-      <Modified>2015-09-24T19:35:02.138</Modified>
+      <Modified>2015-10-09T19:47:56.674</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -99,15 +99,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-09-24T19:35:02.770</Modified>
+      <Modified>2015-10-09T19:42:32.827</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.UniversalWindows.exe">
       <PackagePath>RestaurantManager.UniversalWindows.exe</PackagePath>
-      <Modified>2015-09-24T19:35:04.155</Modified>
+      <Modified>2015-10-09T19:47:57.058</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.UniversalWindows.xr.xml">
       <PackagePath>RestaurantManager.UniversalWindows.xr.xml</PackagePath>
-      <Modified>2015-09-24T19:31:02.837</Modified>
+      <Modified>2015-10-09T19:42:32.367</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\System.AppContext.dll">
       <PackagePath>System.AppContext.dll</PackagePath>

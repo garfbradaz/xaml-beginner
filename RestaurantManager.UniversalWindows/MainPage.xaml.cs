@@ -5,6 +5,7 @@ using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
+using RestaurantManager.UniversalWindows.Pages;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
@@ -25,6 +26,16 @@ namespace RestaurantManager.UniversalWindows
         public MainPage()
         {
             this.InitializeComponent();
+        }
+
+        private void buttonSubmitOrder_Click(object sender, RoutedEventArgs e)
+        {
+            Frame.Navigate(typeof(OrderPage));
+        }
+
+        private void buttonGotoOrders_Click(object sender, RoutedEventArgs e)
+        {
+            Frame.Navigate(typeof(ExpeditePage));
         }
     }
 }

@@ -27,15 +27,15 @@
                    Grid.ColumnSpan="2" VerticalAlignment="Bottom"
                    FontSize="24"/>      
         <!--The following we will change to a button at a later date-->
-        <TextBlock x:ConnectionId='3' x:Name="buttonGotoOrders" Text="*Go to Orders View*" 
-                   TextAlignment="Center"
-                   VerticalAlignment="Center"
-                   Grid.Row="2" />
-        <TextBlock x:ConnectionId='4' x:Name="buttonSubmitOrder" Text="*Submit Order*" 
-                   TextAlignment="Center"
-                   VerticalAlignment="Center"
+        <Button x:ConnectionId='3' x:Name="buttonGotoOrders" Content="Go to Orders View" 
+                   Background="Gray"
+                   Grid.Row="2"                               
+                   HorizontalAlignment="Center" />
+        <Button x:ConnectionId='4' x:Name="buttonSubmitOrder" Content="Submit Order" 
+                   Background="Gray"
+                   HorizontalAlignment="Center"
                    Grid.Column="1"
-                   Grid.Row="2"/>
+                   Grid.Row="2"                                />
                    
     </Grid>
 </Page>
