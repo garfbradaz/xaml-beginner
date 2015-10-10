@@ -11,6 +11,7 @@ D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\Rest
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\LargeSquareLogo.png
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\SmallSquareLogo.png
+D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\SplashScreen.scale-100.png
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png
@@ -24,6 +25,9 @@ D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\Rest
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Microsoft.Win32.Primitives.dll
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Properties\Default.rd.xml
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\resources.pri
+D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.Models.dll
+D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.Models.pdb
+D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.Models\Properties\RestaurantManager.Models.rd.xml
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.UniversalWindows.exe
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.UniversalWindows.pdb
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.UniversalWindows.xr.xml
@@ -231,6 +235,10 @@ D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\Rest
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\System.Xml.XDocument.dll
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\System.Xml.XmlDocument.dll
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\RestaurantManager.Models.dll
+D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\RestaurantManager.Models.pdb
+D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\RestaurantManager.Models.pri
+D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\RestaurantManager.UniversalWindows.csprojResolveAssemblyReference.cache
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\App.g.i.cs
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\App.g.cs
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\MainPage.g.i.cs
@@ -319,6 +327,7 @@ D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\Rest
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\ProjectArchitectures.txt
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\RestaurantManager.UniversalWindows.exe
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\RestaurantManager.UniversalWindows.pdb
+D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\RestaurantManager.Models.pdb
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\Microsoft.CSharp.dll
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\System.Core.dll
@@ -422,8 +431,10 @@ D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\Rest
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\System.Xml.XDocument.dll
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\System.Xml.XmlDocument.dll
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\System.Xml.XmlSerializer.dll
+D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\RestaurantManager.Models.dll
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\Assets\LargeSquareLogo.png
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\Assets\SmallSquareLogo.png
+D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\Assets\SplashScreen.scale-100.png
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\Assets\SplashScreen.scale-200.png
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png
@@ -432,9 +443,7 @@ D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\Rest
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\Assets\StoreLogo.png
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\Properties\Default.rd.xml
+D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\RestaurantManager.Models\Properties\RestaurantManager.Models.rd.xml
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\RestaurantManager.UniversalWindows.xr.xml
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\WinMetadata\Windows.winmd
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\resources.pri
-D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\Assets\SplashScreen.scale-100.png
-D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\Core\Assets\SplashScreen.scale-100.png
-D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Debug\RestaurantManager.UniversalWindows.csprojResolveAssemblyReference.cache

@@ -24,7 +24,9 @@ namespace RestaurantManager.UniversalWindows.Pages
     {
         public ExpeditePage()
         {
+
             this.InitializeComponent();
+            this.DataContext = App.DataManagerContext;
         }
         private void HomeButton_Click(object sender, RoutedEventArgs e)
         {

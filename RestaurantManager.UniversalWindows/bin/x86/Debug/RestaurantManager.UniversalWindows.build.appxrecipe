@@ -76,6 +76,12 @@
     <AppxPackagedFile Include="D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.Models.dll">
+      <PackagePath>RestaurantManager.Models.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.Models\Properties\RestaurantManager.Models.rd.xml">
+      <PackagePath>RestaurantManager.Models\Properties\RestaurantManager.Models.rd.xml</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\bin\x86\Debug\Core\RestaurantManager.UniversalWindows.exe">
       <PackagePath>RestaurantManager.UniversalWindows.exe</PackagePath>
     </AppxPackagedFile>

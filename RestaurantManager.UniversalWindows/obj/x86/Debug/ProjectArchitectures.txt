@@ -1,1 +1,2 @@
+D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.Models\RestaurantManager.Models.csproj;x86
 D:\Coding Projects\Visual Studio 2015\edx - xaml\Homework\RestaurantManager\RestaurantManager.UniversalWindows\RestaurantManager.UniversalWindows.csproj;x86

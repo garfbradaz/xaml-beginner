@@ -13,6 +13,7 @@ using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
+using System.Collections.ObjectModel;
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 
@@ -35,7 +36,9 @@ namespace RestaurantManager.UniversalWindows
 
         private void buttonGotoOrders_Click(object sender, RoutedEventArgs e)
         {
-            Frame.Navigate(typeof(ExpeditePage));
+
+            ObservableCollection<string> d = new ObservableCollection<string>();
+            Frame.Navigate(typeof(ExpeditePage),d);
         }
     }
 }
